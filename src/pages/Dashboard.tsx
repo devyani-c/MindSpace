@@ -34,7 +34,7 @@ const Dashboard = () => {
         <section className="bg-white rounded-2xl p-6 shadow-lg">
           <h3 className="text-xl font-semibold mb-4">Daily Inspiration</h3>
           <p className="text-gray-600 italic">
-            "Your peace is more important than driving yourself crazy trying to understand why something happened the way it did."
+            "Life is all about the peace."
           </p>
         </section>
 
